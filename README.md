@@ -3,7 +3,8 @@
 
 ## 1、 仅有语音demo的演示页
 
-![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/c93e9789-432b-4047-b140-1fff9c9972d0)
+![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/8c52362a-647a-416b-8990-6790115d20b3)
+
 
 
 
