@@ -10,7 +10,10 @@
 
 ![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/0825e325-4522-4ee4-85c7-e9feac33252f)
 
+## 3. 使用教程
+> 1.下载hbuilderx或vscode开发工具。
+> 2. 选择合适样例网站，根据提示改成自己需要的样式即可。
 
-## 模板来源
+## 4. 模板来源
 
 仅语音demo： [fastspeech2的demo演示页](https://speechresearch.github.io/fastspeech2/)
