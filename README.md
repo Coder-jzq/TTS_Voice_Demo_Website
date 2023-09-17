@@ -5,10 +5,10 @@
 
 ![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/8c52362a-647a-416b-8990-6790115d20b3)
 
-
-
-
 ## 2. 带频谱图、语音的demo演示页
+![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/f2cfca88-d952-471b-9550-1a7403fe6dda)
+
+![image](https://github.com/code-manba/TTS_Voice_Demo_Website/assets/57063392/0825e325-4522-4ee4-85c7-e9feac33252f)
 
 
 ## 模板来源
